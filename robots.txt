@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /media/
+Sitemap: https://lecasse2026-maker.github.io/lecasse/sitemap.xml
